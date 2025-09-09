@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Timur (kenol)
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=dark&text=Hi%20there%20👋,%20I'm%20Timur&reversal=false&animation=fadeIn&textBg=false)
 
 I'm a **Frontend Developer** passionate about building clean and modern web applications.  
 Currently focused on **React** and **Node.js**, but I also enjoy experimenting with new technologies and improving my problem-solving skills.  
@@ -24,10 +24,5 @@ Always eager to learn, grow, and create something meaningful ✨.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
-
-### 📊 GitHub Stats
-![Kenol's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenoleeee&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenoleeee&layout=compact&theme=dark)  
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenoleeee&layout=compact&theme=1)  
 ✨ *"Keep building, keep learning."*
