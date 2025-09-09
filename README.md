@@ -1,4 +1,4 @@
-![header]([https://capsule-render.vercel.app/api?type=blur&height=300&color=dark&text=Hi%20there%20👋,%20I'm%20Timur&reversal=false&animation=fadeIn&textBg=false](https://capsule-render.vercel.app/api?type=waving&height=300&color=dark&reversal=false&animation=scaleIn&textBg=false))
+# Hi there 👋, I'm Timur (kenol)
 
 I'm a **Frontend Developer** passionate about building clean and modern web applications.  
 Currently focused on **React** and **Node.js**, but I also enjoy experimenting with new technologies and improving my problem-solving skills.  
