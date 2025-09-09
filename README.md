@@ -24,5 +24,5 @@ Always eager to learn, grow, and create something meaningful ✨.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenoleeee&layout=compact&theme=1)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenoleeee&layout=compact&theme=dark)  
 ✨ *"Keep building, keep learning."*
