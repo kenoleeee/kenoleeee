@@ -26,8 +26,8 @@ Always eager to learn, grow, and create something meaningful ✨.
 ---
 
 ### 📊 GitHub Stats
-![Kenol's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenoleeee&show_icons=true&theme=1)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenoleeee&layout=compact&theme=1)  
+![Kenol's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenoleeee&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenoleeee&layout=compact&theme=dark)  
 
 ---
 ✨ *"Keep building, keep learning."*
